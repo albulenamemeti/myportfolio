@@ -75,11 +75,11 @@ main .abilities {
 }
 
 .html {
-    width: 90%;
+    width: 60%;
 }
 
 .css {
-    width: 60%;
+    width: 55%;
 }
 
 .javascript {
@@ -251,6 +251,15 @@ footer img {
 
     background-color: rgba(0, 0, 0, 0.55);
   }
+
+  .casefive {
+      display: flex;
+  }
+  .casefive p {
+    padding: 0 15px;
+}
+
+/* PRIVATEPROJECTS.INDEX */
 
   .comingsoon {
     height: auto;
